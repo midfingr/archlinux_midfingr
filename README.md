@@ -15,7 +15,6 @@ Changes to v0.08
 - global dark theme; 'Delorean-Dark'
 - XFCE windows open in center of the screen
 - additional compiz tweaks including wallpaper cycling
-- Thunar action 'edit as root' for text files
 - added extra Xorg packages
 
 archlinux_midfingr_x86_64-0.07a
