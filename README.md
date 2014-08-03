@@ -3,6 +3,21 @@ archmidfingr
 
 Changes to Arch Linux Midfingr Edition builds
 
+archlinux_midfingr_x86_64-0.09
+
+Changes to v0.09
+
+- added additional configuration notes on desktop
+- added guake terminal (press F12)
+- removed compiz start/stop buttons: replace with keyboard shortcuts
+- added a more compatible delorean-dark theme; should remove the gtk errors
+- fireworks ! ;)
+- GIMP added as per request
+- back to one panel at the bottom
+- more conky edits
+- disabled compiz wallpapers & fixed a few issues
+- window buttons are on center of panel
+
 archlinux_midfingr_x86_64-0.08
 
 Changes to v0.08
