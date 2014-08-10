@@ -3,6 +3,20 @@ archmidfingr
 
 Changes to Arch Linux Midfingr Edition builds
 
+archlinux_midfingr_x86_64-0.09b
+
+Changes to v0.09b
+
+- removed update manager # too many problems
+- added Chromium (chromium-pepper-flash-standalone) # as per request
+- removed unneeded themes, fonts and icons
+- updated the Post Install document
+- added compiz-brz
+- a couple of conky-colors tweaks
+- removed mate terminal
+- added 'Edit as Root' for documents
+- updated to xorg-server 1.16 # Catalyst users will need to downgrade this to 1.15
+
 archlinux_midfingr_x86_64-0.09
 
 Changes to v0.09
