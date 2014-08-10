@@ -5,6 +5,8 @@ Changes to Arch Linux Midfingr Edition builds
 
 archlinux_midfingr_x86_64-0.09b
 
+log in password: guest
+
 Changes to v0.09b
 
 - removed update manager # too many problems
