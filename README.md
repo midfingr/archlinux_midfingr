@@ -3,6 +3,21 @@ archmidfingr
 
 Changes to Arch Linux Midfingr Edition builds
 
+archlinux_midfingr_x86_64-0.10
+
+log in password: guest
+
+Changes to v0.10
+
+- new installer (ame) and instructions
+- xfce4 drop-down terminal
+- speedtest-cli (type speed in a terminal)
+- localepurge (needs configuration)
+- multi-user environment
+- updated instructions to change the default user
+- firefox theme delorean-dark
+- removed guake terminal
+
 archlinux_midfingr_x86_64-0.09b
 
 log in password: guest
