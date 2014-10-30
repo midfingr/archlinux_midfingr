@@ -3,6 +3,21 @@ archmidfingr
 
 Changes to Arch Linux Midfingr Edition builds
 
+archlinux_midfingr_x86_64-0.12
+
+Video: http://youtu.be/fvjC9M-Vrfg
+
+log in password: guest
+
+Changes to v0.12
+
+- compatibilty with recent XFCE4 updates
+- speedtest-cli added ; alias speed
+- changed journal configuration to use 50 MB maximun
+- updated documentation
+- numix theme
+- transparent panel
+
 archlinux_midfingr_x86_64-0.10
 
 log in password: guest
