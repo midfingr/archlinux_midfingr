@@ -3,6 +3,19 @@ archmidfingr
 
 Changes to Arch Linux Midfingr Edition builds
 
+Build naming changed. Now reflects month-day-year.
+
+archmid-01-10-15_x86_64.iso
+
+log in password: guest
+
+Changes to 01-10-15
+
+- fixed file system permissions warning
+- Firefox customizations
+- post-clean now includes option to clear pacman cache
+- pacman configuration file includes colors and 'I-Candy' ;)
+
 archlinux_midfingr_x86_64-0.12
 
 Video: http://youtu.be/fvjC9M-Vrfg
