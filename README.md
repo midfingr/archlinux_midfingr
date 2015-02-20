@@ -15,7 +15,7 @@ Thunar:
 - add copy and move to actions;  right-click mouse
 - F3 to open new TAB
 - F4 to open terminal
--------------------------------------------------------------------
+
 - '.scripts' folder; free memory, Thunar scripts and logout
 - leafpad font set to Cantarell Bold; user and root
 - icon theme: Ultra Flat
