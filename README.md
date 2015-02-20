@@ -5,6 +5,26 @@ Changes to Arch Linux Midfingr Edition builds
 
 Build naming changed. Now reflects month-day-year.
 
+archmid-02-19-15_x86_64.iso
+
+log in password: guest
+
+Changes to 02-19-15
+
+Thunar:
+- add copy and move to actions;  right-click mouse
+- F3 to open new TAB
+- F4 to open Terminal
+-------------------------
+- '.scripts' folder; free memory, Thunar scripts and logout
+- leafpad font set to Cantarell Bold; user and root
+- icon theme: Ultra Flat
+- window/login manager is now LXDM
+- bottom panel includes shortcut to XFCE System Settings
+- removed whisker in favour of default menu
+- Chromium replaces Firefox
+- added ctrl+alt+backspace keyboard shortcut to log out
+
 archmid-01-10-15_x86_64.iso
 
 log in password: guest
