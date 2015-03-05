@@ -5,6 +5,22 @@ Changes to Arch Linux Midfingr Edition builds
 
 Build naming changed. Now reflects month-day-year.
 
+archmid-03-05-15_x86_64.iso
+
+log in password: guest
+
+Changes to 03-04-15
+
+- xfce 4.12 testing repository
+- edited mkinitcpio file to aid in boot time
+please see: http://blog.falconindy.com/articles/optmizing-bootup-with-mkinitcpio.html
+- Whisker menu added back with transparency (xfce4-whiskermenu-plugin)
+- panel background color set to black; 80% alpha
+
+Note this is from the Arch Linux Testing Repository. To view bugs, please see:
+https://bbs.archlinux.org/viewtopic.php?id=194313
+
+
 archmid-02-19-15_x86_64.iso
 
 log in password: guest
