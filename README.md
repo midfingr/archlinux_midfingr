@@ -11,10 +11,10 @@ log in password: guest
 
 Changes to 03-10-15
 
--xfce 4.12 Final !!
--mkinitcpio is back to default
--grub2 theme 'arch-suse'
--additional documentation 'Post Install Addendum' & 'What's New'
+xfce 4.12 Final !!
+mkinitcpio is back to default
+grub2 theme 'arch-suse'
+additional documentation 'Post Install Addendum' & 'What's New'
 
 complied on March 09 2015
 
