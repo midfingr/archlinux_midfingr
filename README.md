@@ -5,6 +5,19 @@ Changes to Arch Linux Midfingr Edition builds
 
 Build naming changed. Now reflects month-day-year.
 
+archmid-03-10-15_x86_64.iso
+
+log in password: guest
+
+Changes to 03-10-15
+
+-xfce 4.12 Final !!
+-mkinitcpio is back to default
+-grub2 theme 'arch-suse'
+-additional documentation 'Post Install Addendum' & 'What's New'
+
+complied on March 09 2015
+
 archmid-03-05-15_x86_64.iso
 
 log in password: guest
