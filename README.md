@@ -1,4 +1,4 @@
-archmidfingr
+Arch Linux midfingr Edition
 ============
 
 Changes to Arch Linux Midfingr Edition builds
