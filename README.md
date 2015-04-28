@@ -3,6 +3,34 @@ Changes to Arch Linux Midfingr Edition builds
 
 Build naming changed. Now reflects month-day-year.
 
+archmid-04-28-15_x86_64.iso
+
+log in password: guest
+log in root password: root  ### !! CHANGE ASAP !! ###
+
+Changes to 04-28-15
+
+- based on Nvidia xorg (nvidia-libgl) ## may not work for AMD/ATI graphics cards
+- traditional root access
+- additional documentation 'Post Install Addendum', 'What's New', 'Important' (change root pass), 'Keyboard Layout'
+- Icon Theme: Numix Circle
+- workaround for Virtualbox (host) 'VERR_SUPLIB_OWNER_NOT_ROOT' error
+- NetSurf as Web Browser; reduces ISO size, remove and or replace as needed
+- keyboard layout plugin on bottom panel; manually add if desired
+- makepkg config modified for multicore compression and memory based compilation
+- '.scripts' folder; free memory, Thunar scripts and logout
+- leafpad font set to Cantarell Bold; user and root
+Thunar:
+- add copy and move to actions have been REMOVED
+
+## !! Attention !! ## Nvidia 900 series card users
+Before booting the Arch ISO:
+- press tab
+- press space at the end
+- type: nomodeset
+- press ENTER
+This should allow Nvidia 900 series card users to continue to the GUI; not need if running from Virtualbox or similar
+
 archmid-03-10-15_x86_64.iso
 
 log in password: guest
