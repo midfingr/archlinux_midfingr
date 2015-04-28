@@ -23,7 +23,7 @@ Changes to 04-28-15
 Thunar:
 - add copy and move to actions have been REMOVED
 
-## !! Attention !! ## Nvidia 900 series card users
+!! Attention !! Nvidia 900 series card users
 Before booting the Arch ISO:
 - press tab
 - press space at the end
