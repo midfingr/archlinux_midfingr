@@ -18,8 +18,7 @@ Changes to 06-10-15
 - Linux kernel 4.x
 - Whisker menu 'Numix' based theme
 
-
-## !! Attention !! ## Nvidia 900 series card users
+## !! Attention !! ## Nvidia 900 series card users !! ##
 Before booting the Arch ISO:
 - press tab
 - press space at the end
