@@ -3,10 +3,28 @@ Changes to Arch Linux Midfingr Edition builds
 
 Build naming changed. Now reflects month-day-year.
 
-archmid-04-28-15_x86_64.iso
+archmidfingr-2015.06.10-x86_64.iso
 
 log in password: guest
 log in root password: root  ### !! CHANGE ASAP !! ###
+
+Changes to 06-10-15
+
+- support for btrfs (a.k.a. better file system, etc.)
+- fstab changed to UUID
+- Firefox web browser
+- modified reflector instructions in Post Install
+- Thunar bookmark to applications (renamed to Programs)
+- Linux kernel 4.x
+- Whisker menu 'Numix' based theme
+
+## !! Attention !! ## Nvidia 900 series card users
+Before booting the Arch ISO:
+- press tab
+- press space at the end
+- type: nomodeset
+- press ENTER
+This should allow Nvidia 900 series card users to continue to the GUI; not need if running from Virtualbox or similar
 
 Changes to 04-28-15
 
