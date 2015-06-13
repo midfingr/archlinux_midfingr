@@ -17,7 +17,8 @@ Changes to 06-10-15
 - Thunar bookmark to applications (renamed to Programs)
 - Linux kernel 4.x
 - Whisker menu 'Numix' based theme
-- 
+
+
 ## !! Attention !! ## Nvidia 900 series card users
 Before booting the Arch ISO:
 - press tab
